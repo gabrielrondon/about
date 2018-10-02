@@ -24,6 +24,7 @@ product management, programme management, operations mgmt
 ### remote management
 communications apps (slack, rocket.chat, gitter,)  
 to-do (trello, asana,)
+git
 
 ## relevant experiences
 ### crypto consultant
