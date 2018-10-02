@@ -10,7 +10,7 @@ english, french, spanish, portuguese
 ### overall tech knowledge
 *not a developer but can do the basics and work these environments*  
 front-end (angular)  
-back-end  
+back-end (nodejs, django)  
 python  
 learning golang  
 javascript  
@@ -22,7 +22,7 @@ whole career built on project manager
 product management, programme management, operations mgmt
 
 ### remote management
-communications apps (slack, rocket.chat, gitter,)
+communications apps (slack, rocket.chat, gitter,)  
 to-do (trello, asana,)
 
 ## relevant experiences
@@ -33,10 +33,10 @@ Working for an international exchange remotely.
 ### WiseReader / **founder**
 *2017-2018*  
 World's first project of an adaptive book. I created this concept and developed research in France with the support of the French Government. The main idea is to let students learn by small pieces of content (called "smartBlocks") and switch the source easily.
-
+--> wisereader.io
 ### Pearson Education / **project/product manager**
 *2010-2015*  
-Managed 100+ people to market and create digital classrooms for Brazilian students. Afterward, participated in international projects to develop an innovation lifecycle for the company where I was "Head of Efficacy" for Brazil. Made constant travels to UK, Chile, Argentin, and Mexico.
+Managed 100+ people to market and create digital classrooms for Brazilian students. Afterward, participated in international projects to develop an innovation lifecycle for the company where I was "Head of Efficacy" for Brazil. Made constant travels to UK, Chile, Argentina, and Mexico.
 Product & Marketing Manager for some of Pearson's products like Mylabs, Virtuallabs. 
 I also conducted several projects when Pearson made more significant investments in Brazil (around 2010). Where I participated, as a project manager, in the merger & acquisitions of some other educational companies.
 One of the most important works was the integration of its editorial operations (print and digital).
