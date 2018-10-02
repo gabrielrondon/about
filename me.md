@@ -6,7 +6,7 @@ Paris France
 
 ## skills
 ### spoken languages 
-english, french, spanish, portuguese
+english, french, spanish(int.), portuguese(mother language)
 ### overall tech knowledge
 *not a developer but can do the basics and work these environments*  
 front-end (angular)  
