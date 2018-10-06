@@ -25,7 +25,7 @@ agile
 scrum  
 
 ### remote management
-communications apps (slack, rocket.chat, gitter,)  
+communications apps (jitsi, slack, rocket.chat, gitter,)  
 to-do (trello, asana,)  
 git
 
