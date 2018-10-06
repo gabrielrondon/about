@@ -16,6 +16,9 @@ learning golang
 javascript  
 machine learning concepts  
 blockchain  
+github (communicate in issues, manage notifications, create branches, make commits, changes with pull request, manage merge conflicts)
+general knowledge about the main processes of a bounty program (breakdown of the distribution of tokens into signature campaign, social media, content development, translations)
+
 
 ### overall management
 whole career built on project manager  
@@ -32,7 +35,8 @@ git
 ## relevant experiences
 ### crypto consultant
 *2018-*  
-Working for an international exchange remotely.
+- Working for an international exchange remotely as a consultant (account management & customer services) which helped to learn about the investors and customer's needs.
+- Helped to develop the content for one ICO (crafty.work) which helped to learn about the general process of an ICO
 
 ### WiseReader / **founder**
 *2017-2018*  
