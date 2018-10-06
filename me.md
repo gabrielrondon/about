@@ -41,7 +41,7 @@ git
 ### WiseReader / **founder**
 *2017-2018*  
 World's first project of an adaptive book. I created this concept and developed research in France with the support of the French Government. The main idea is to let students learn by small pieces of content (called "smartBlocks") and switch the source easily.
-Currently research ways to tokenize the smartBlocks to allow monetization to the authors --> wisereader.io
+Currently researching ways to tokenize the smartBlocks to allow monetization to the authors --> wisereader.io
 ### Pearson Education / **project/product manager**
 *2010-2015*  
 Managed 100+ people to market and create digital classrooms for Brazilian students. Afterward, participated in international projects to develop an innovation lifecycle for the company where I was "Head of Efficacy" for Brazil. Made constant travels to UK, Chile, Argentina, and Mexico.
