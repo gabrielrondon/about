@@ -17,7 +17,8 @@ javascript
 machine learning concepts  
 blockchain  
 github (communicate in issues, manage notifications, create branches, make commits, changes with pull request, manage merge conflicts)  
-general knowledge about the main processes of a bounty program (breakdown of the distribution of tokens into signature campaign, social media, content development, translations)
+general knowledge about the main processes of a bounty program (breakdown of the distribution of tokens into signature campaign, social media, content development, translations)  
+IPFS
 
 
 ### overall management
