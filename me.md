@@ -1,5 +1,5 @@
 # about.me
-**gabriel b rondon**  
+**gabriel b. rondon**  
 33 yo  
 Brazilian  
 Paris France  
